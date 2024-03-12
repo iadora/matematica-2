@@ -1,3 +1,11 @@
+
+body{
+    background-color: rgb(240, 253, 164);
+}
+header {
+    background-color: #6841f8;
+    color: white;
+}
 *{
     margin: 0;
     padding: 0;
@@ -16,10 +24,8 @@
     width: 20%;
 }
 
-body{
-    background-color: rgb(240, 253, 164);
-}
-header {
-    background-color: #6841f8;
-    color: white;
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
 }
