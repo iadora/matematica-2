@@ -13,7 +13,7 @@ header {
 
 .cabecalho {
     background-color: #fdff86cb;
-    color: white;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
